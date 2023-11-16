@@ -33,8 +33,8 @@ function error {
 # Base raw github URL
 _raw_base="https://raw.githubusercontent.com/ej52/proxmox-scripts/main/lxc/nginx-proxy-manager"
 # Operating system
-_os_type=alpine
-_os_version=3.16
+_os_type=ubuntu
+_os_version=22.04
 # System architecture
 _arch=$(dpkg --print-architecture)
 
