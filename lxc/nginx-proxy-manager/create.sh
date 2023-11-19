@@ -31,7 +31,7 @@ function error {
 }
 
 # Base raw github URL
-_raw_base="https://raw.githubusercontent.com/arkouski/proxmox-scripts/blob/new-branch/lxc/nginx-proxy-manager"
+_raw_base="https://raw.githubusercontent.com/arkouski/proxmox-scripts/new-branch/lxc/nginx-proxy-manager"
 # Operating system
 _os_type=ubuntu
 _os_version=22.04
